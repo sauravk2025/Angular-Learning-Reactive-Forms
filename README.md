@@ -1,27 +1,27 @@
-# Forms
+# ⚙️ Angular Reactive Forms Demo
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.0.0.
+This project demonstrates how to create and handle **Reactive Forms** in Angular.  
+It focuses on building forms dynamically in TypeScript using **`FormGroup`**, **`FormControl`**, and **Validators**, giving developers full control over form data and validation.
 
-## Development server
+---
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+## 🚀 Features
 
-## Code scaffolding
+- 🧩 Implements **FormGroup** and **FormControl** structures
+- ✅ Demonstrates **form validation** using `Validators`
+- 🔄 Tracks **form state and changes** in real time
+- 🧠 Compares **template-driven** vs **reactive approach**
+- 🎨 Includes simple, interactive form UI
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+---
 
-## Build
+## 🧰 Tech Stack
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+| Technology | Purpose |
+|-------------|----------|
+| **Angular** | Framework for form creation and control |
+| **TypeScript** | Logic and validation handling |
+| **HTML5 & CSS3** | Form layout and styling |
 
-## Running unit tests
+---
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
